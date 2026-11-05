@@ -9,7 +9,7 @@
 ## 1. Integrantes
 
 - Wellington Miguel de Jesus Silva (Matrícula: 222116288)
-- *[Nome do Integrante 2]* (Matrícula: *[Matrícula]*)
+- Luan Felizola Leal (Matrícula: 224116983)
 - *[Nome do Integrante 3]* (Matrícula: *[Matrícula]*)
 
 ---
