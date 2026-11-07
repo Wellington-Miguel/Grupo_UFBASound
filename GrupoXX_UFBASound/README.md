@@ -10,6 +10,7 @@
 
 - Wellington Miguel de Jesus Silva (Matrícula: 222116288)
 - Luan Felizola Leal (Matrícula: 224116983)
+- Landerson Evangelista Miranda (Matrícula: 222116281)
 - *[Nome do Integrante 3]* (Matrícula: *[Matrícula]*)
 
 ---
